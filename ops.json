@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "1b7756e1-fae7-3dd3-ad9b-1352c1957514",
+    "name": "Ark",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "40b5e6c8-319a-3189-beeb-56da1bb56976",
+    "name": "Jhosimark",
+    "level": 2,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "2f7eccc1-a140-32a7-b120-19aa1cd32966",
+    "name": "ZuLin",
+    "level": 2,
+    "bypassesPlayerLimit": false
+  }
+]
